@@ -4,6 +4,8 @@
  */
 
 #include <stdio.h>
+
+// To simulate EOF (End of File) from the terminal, Press CTRL + d
 main()
 {
 	int c, b, t, n;
